@@ -1,0 +1,3 @@
+# 🏃‍➡️ Entrenamiento
+| Patrón | Descripción |
+| ------ | ----------- |
