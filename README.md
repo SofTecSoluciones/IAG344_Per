@@ -22,6 +22,18 @@
 | `+`                          | Uno o más                              |
 | `*`                          | Cero o más                             |
 
+### Librerías Python Usadas
+
+| Librería      | Descripción                                      |
+| ------------- | ------------------------------------------------ |
+| `openpyxl`    | Lectura y escritura de archivos Excel (.xlsx)    |
+| `pytest`      | Framework para realizar pruebas unitarias        |
+| `pyinstaller` | Convierte scripts de Python en ejecutables (.exe)|
+| `colorama`    | Permite usar colores en la terminal              |
+| `tkinter`     | Biblioteca estándar para interfaces gráficas GUI |
+| `pluggy`      | Gestor de plugins usado por pytest               |
+
+
 
 ---
 
@@ -59,6 +71,14 @@
 
 ---
 
+### Frameworks y Herramientas Frontend
+
+| Herramienta     | Descripción                                              |
+| --------------- | -------------------------------------------------------- |
+| `Bootstrap 5`   | Framework CSS para diseño responsive y componentes UI    |
+| `Font Awesome`  | Biblioteca de iconos vectoriales                         |
+| `Google Fonts`  | API para tipografías web (e.g., Montserrat)              |
+
 ### Etiquetas HTML
 
 | Etiqueta                  | Descripción       |
@@ -72,7 +92,23 @@
 | `<ol></ol>`               | Lista ordenada    |
 | `<ul></ul>`               | Lista desordenada |
 | `<li></li>`               | Ítems de lista    |
-| `<a></a>`                 | link              |
+| `<a></a>`                 | Enlace (Link)     |
+| `<div></div>`             | Contenedor de división genérico |
+| `<nav></nav>`             | Sección de navegación |
+| `<header></header>`       | Cabecera de la página o sección |
+| `<section></section>`     | Sección temática del documento |
+| `<footer></footer>`       | Pie de página |
+| `<form></form>`           | Formulario para entrada de usuario |
+| `<input>`                 | Campo de entrada de datos |
+| `<label></label>`         | Etiqueta para un elemento input |
+| `<button></button>`       | Botón cliqueable |
+| `<span></span>`           | Contenedor en línea genérico |
+| `<strong></strong>`       | Texto con énfasis fuerte (negrita) |
+| `<img>`                   | Imagen |
+| `<link>`                  | Enlace a recurso externo (CSS, iconos) |
+| `<script></script>`       | Script ejecutable (JavaScript) |
+| `<meta>`                  | Metadatos del documento |
+| `<title></title>`         | Título del documento |
 
 ### Entorno virtual
 | Comando | Descripción |
