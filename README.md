@@ -72,6 +72,7 @@
 | `<ol></ol>`               | Lista ordenada    |
 | `<ul></ul>`               | Lista desordenada |
 | `<li></li>`               | Ítems de lista    |
+| `<a></a>`                 | link              |
 
 ### Entorno virtual
 | Comando | Descripción |
